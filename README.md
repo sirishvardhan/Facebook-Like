@@ -16,10 +16,8 @@ You can also customize setting for following features:
 * You can show facebook like button at the top and/or botton of content of your posts/home/pages/archive.
 * You can set Facebook Like Button Align to the Left or Right of your posts/home/pages/archive.
 * You can show Friend's faces under like button.
-* You can customize Width and Height.
 * You can set - Layout
 * You can set - Size (small or large)
-* Hide facebook Like button * Included share button optional
 
 == Installation ==
 
