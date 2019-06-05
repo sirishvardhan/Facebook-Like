@@ -5,3 +5,4 @@ I have created the Facebook Like plugin, As mine is all about the startup busine
 Features:
 We can change the font of the icon
 we can remove or have the photo of the visitor
+
