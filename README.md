@@ -1,0 +1,2 @@
+# Facebook-Like
+I have created the Facebook Like plugin, As my is all about the startup business and this plugimn will be usefull in marketing and publicity. If a visitor likes the facebook page then he will be getting the notifications of all the products and dates of the miniature exhibitions. The visitor can like the page and also get in contact with the owner directly and findout about the bookings and the offers or can also customise the products by getting in contact with the owner
